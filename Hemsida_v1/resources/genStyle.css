@@ -1,4 +1,4 @@
-@media screen and (min-width:490px){
+﻿@media screen and (min-width:490px){
 	
 }
 body{
@@ -46,7 +46,7 @@ header{
 }
 /* HEADER LOGIN */
 #header-login-container{
-	width: 350px;
+	width: 400px;
 	float: right;
 	text-align: right;
 	display: inline-block;

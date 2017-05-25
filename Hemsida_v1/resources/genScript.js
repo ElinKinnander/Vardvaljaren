@@ -1,4 +1,4 @@
-$(document).ready(function(){
+﻿$(document).ready(function(){
 	//SIDE BAR TOGGLE, SHOW ARTICLE WHEN CLICK
 	$(".sideBar").click(function(){
 		var tabNr = ($(this).attr("id"))[3];

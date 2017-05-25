@@ -1,4 +1,4 @@
-<div class="articleContainer" id="articleContainer4">
+﻿<div class="articleContainer" id="articleContainer4">
 	<h2>Välj vård</h2>
 	<div class="half-article-container">
 		<div class="healthcare-result">
@@ -12,7 +12,7 @@
 		</div>
 		
 		<div class="healthcare-result">
-			<p class="healthcare-name">Capion cityklinike</p>
+			<p class="healthcare-name">Capion citykliniken</p>
 			<p class="healthcare-info">här finns info om VC.</p>
 		</div>
 		

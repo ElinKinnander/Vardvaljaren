@@ -1,9 +1,9 @@
-<article>
+ï»¿<article>
 	<div class="articleContainer">
 		<div id="faq-short-list-container">
 			<ol id="faq-short-list">
-				<li><a href="#Q1" class="faq-short-list-question">Detta är den första vanliga frågan va?</a></li>
-				<li><a href="#Q2" class="faq-short-list-question">Detta är då alltså den andra vanliga frågan va?</a></li>
+				<li><a href="#Q1" class="faq-short-list-question">Detta Ã¤r den fÃ¶rsta vanliga frÃ¥gan va?</a></li>
+				<li><a href="#Q2" class="faq-short-list-question">Detta Ã¤r dÃ¥ alltsÃ¥ den andra vanliga frÃ¥gan va?</a></li>
 			</ol>
 		</div>
 		<div id="faq-long-list-container">

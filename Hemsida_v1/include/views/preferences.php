@@ -1,4 +1,4 @@
-<div class="articleContainer" id="articleContainer3">
+﻿<div class="articleContainer" id="articleContainer3">
 	<h2>Preferenser</h2>
 	<form name="preferencesForm">
 		<!--SWEDEN MAP-->

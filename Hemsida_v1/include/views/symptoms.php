@@ -1,4 +1,4 @@
-<div class="articleContainer" id="articleContainer2">
+﻿<div class="articleContainer" id="articleContainer2">
 	<h2>Åkomma</h2>
 	<form name="symptomsForm">
 		<!--HUMAN BODY-->

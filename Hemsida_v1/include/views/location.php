@@ -1,4 +1,4 @@
-<div class="articleContainer" id="articleContainer1">
+﻿<div class="articleContainer" id="articleContainer1">
 	<h2>Välj område</h2>
 	<form name="locationForm">
 		<!--SWEDEN MAP-->
